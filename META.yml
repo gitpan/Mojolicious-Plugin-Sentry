@@ -18,6 +18,7 @@ no_index:
     - t
     - inc
 requires:
+  Mojolicious: '0'
   Sentry::Raven: '0'
   Test::Simple: '0.44'
-version: 0.1
+version: 0.11

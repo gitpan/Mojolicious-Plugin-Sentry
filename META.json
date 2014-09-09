@@ -32,11 +32,12 @@
       },
       "runtime" : {
          "requires" : {
+            "Mojolicious" : "0",
             "Sentry::Raven" : "0",
             "Test::Simple" : "0.44"
          }
       }
    },
    "release_status" : "stable",
-   "version" : 0.1
+   "version" : 0.11
 }
